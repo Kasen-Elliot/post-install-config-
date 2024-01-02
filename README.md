@@ -38,7 +38,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Setups</h2>
 
-<!-- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
+<!-- <img src="https://github.com/Kasen-Elliot/post-install-config-/assets/127895952/6cd1d6a8-946f-42ff-944e-9217a730f788" height="80%" width="80%" alt="Disk Sanitization Steps"/> -->
 
 <h3>Configuring Roles, Departments, & Teams</h3>
 
