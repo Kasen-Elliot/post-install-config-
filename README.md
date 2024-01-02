@@ -48,7 +48,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <li><b>Note</b>: There are two panels when navigating osTicket; <b>Agent Panel</b> and <b>Admin Panel</b>, you'll know which panel you are on if the <b>opposite panel</b> is displayed on the top right of the UI next to your user login name</li>
   <ul>
     <li>In this example, the user "josh" is on the Agent Panel</li>
-    <li><img src="https://github.com/Kasen-Elliot/post-install-config-/assets/127895952/100d44e3-41b8-403d-8854-8b784f731d31" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
+    <li><img src="https://github.com/Kasen-Elliot/post-install-config-/assets/127895952/a8cf9257-f4f6-41de-aa9a-3c03953bf863" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
   </ul>
   <li><b>Roles</b> grant certain permisions to Agents in an Department they are assigned to</li>
   <ul>
